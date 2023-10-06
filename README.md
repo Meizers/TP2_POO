@@ -1,2 +1,6 @@
 # TP2_POO
-TP2 resuelto de Prorgamacion Orientada a Objetos
+TP2 resuelto de Programacion Orientada a Objetos
+
+Alumno : Tomas Resnik
+
+Legajo : 190168
